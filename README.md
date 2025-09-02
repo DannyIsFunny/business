@@ -25,7 +25,7 @@
 合不到一个点上，这些人是纯兴趣驱动。  喜欢无人机、喜欢游戏、喜欢机器人、喜欢人工智能(直接和钱结合在一起) 
 
 那如果从内驱 开始找： 我喜欢什么？   我喜欢新的东西(互联网、人工智能、AI芯片、智能驾驶、大模型、机器人)
-               What's new/Communication to the new/Talk<Invite 前沿的人来演讲> TED
+               What's new/Communication to the new/Talk<Invite 前沿的人来演讲> TED     <卖广告、但是需要非常大的体量才可以>
                What's hot /Prediction 行业走势
                GetConnection/ 下发任务-获得产品
 
@@ -40,4 +40,4 @@
 学校/企业孵化
 
 
-- 现在可能密集的创业时间点，像2000年的互联网浪潮一样。
+- 现在可能密集的创业时间点，像2000年的互联网浪潮一样。   技术迭代
